@@ -1,4 +1,6 @@
 #Simple BubbleSort in C++
+==============================
+This is the easy implementation of BubbleSort  using C++.
 <b>Featuring the following functions:<br></b>
 1) ReheapUp  <br>
 2) ReheapDown<br>
