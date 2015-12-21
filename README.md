@@ -6,3 +6,5 @@
 4) Sort<br>
 5) Insert<br>
 6) Remove
+
+Cyndy Judice - WebDeveloper at http://seolosangeles.digital/
